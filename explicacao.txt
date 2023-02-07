@@ -1,0 +1,7 @@
+Para adicionar elementos do HTML no JS 
+
+criar uma variavel e usar o createElement e colocar a tah que voce deseja criar
+Se quiser colocar algum texto, use o innerText
+
+const paragrafo = document.createElemente('p')
+paragrafo.innerText="Isso é um paragrafo"
